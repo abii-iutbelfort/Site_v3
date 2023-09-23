@@ -1,0 +1,25 @@
+{
+  "name": "frontabii",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.4.1",
+    "axios": "^1.5.0",
+    "naive-ui": "^2.34.4",
+    "pinia": "^2.1.6",
+    "unplugin-auto-import": "^0.16.4",
+    "unplugin-vue-components": "^0.25.1",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vicons/material": "^0.12.0",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.9"
+  }
+}
